@@ -38,7 +38,7 @@ This chapter introduces the classical sequence-to-sequence network, the dataset 
     <p>
       <img src="doc/imgs/aclImdb.png" style="text-align:center" width="500">
       <br/>
-      Positiva and negativa review samples
+      positiva and negativa review samples
     </p>
 </div>
 
@@ -66,7 +66,7 @@ This chapter implements a practical case of urban street segmentation, the datas
   <p>
     <img src="doc/imgs/CamVid_0006R0_f01260_P.png" style="text-align:center" width="500">
     <br/>
-    Output of 
+    output of semantic segmentation
   </p>
 </div>
 
