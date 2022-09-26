@@ -8,54 +8,56 @@ English | [简体中文](./README.md)
 
 ---
 
-本仓库为VSISLAB所编写《人工智能技术基础及应用》一书配套代码
+This repository is a companion code to the book "Fundamentals and Applications of Artificial Intelligence Techniques" written by VSISLAB
 
-1~3章不涉及实践，无配套代码
+Chapters 1~3 do not involve practice, no supporting code
 
-## 第四章 卷积神经网络
+## Chapter 4 Convolutional Neural Networks
 
-本章主要介绍经典卷积神经网络结构，训练及测试所用数据集为FashionMNIST，构建Dataloader时会自动下载至目录`chapter_4/data/FashionMNIST`
+This chapter introduces the classical convolutional neural network structure, the dataset used for training and testing is FashionMNIST, which will be automatically downloaded to the directory `chapter_4/data/FashionMNIST` when building Dataloader
+
 
 <div align="center">
   <p>
     <img src="doc/imgs/Fashion-MNIST-dataset.png" width="400">
     <br/>
-    FashionMNIST样本
+    Sample in FashionMNIST
   </p>
 </div>
 
 
-[FashionMNIST官方仓库](https://github.com/zalandoresearch/fashion-mnist)
+[FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
 
 
-## 第五章 序列到序列网络
+## Chapter 5 Sequence2Sequence
 
-本章主要介绍经典序列到序列网络，训练及测试所用数据集为aclImdb，需要读者下载至目录`chapter_5/data/aclImdb`
+This chapter introduces the classical sequence-to-sequence network, the dataset used for training and testing is aclImdb, which needs to be downloaded to the directory `chapter_5/data/aclImdb` by the reader.
+
 
 <div align="center">
     <p>
       <img src="doc/imgs/aclImdb.png" style="text-align:center" width="500">
       <br/>
-      正负评价样本
+      Positiva and negativa review samples
     </p>
 </div>
 
 
-[aclImdb下载地址](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
+[Download aclImdb](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 
-## 第六章 目标检测及其应用
+## Chapter 6 Object Detection and its Applications
 
-整理中
+coming soon...
 
-## 第七章 语义分割及其应用
+## Chapter 7 Semantic Segmentation and its Applications
 
-本章实现城市街景分割实践案例，训练及测试所用数据集为CamVid，需要读者下载至目录`chapter_7/CamVid`
+This chapter implements a practical case of urban street segmentation, the dataset used for training and testing is CamVid, which needs to be downloaded to the directory `chapter_7/CamVid`.
 
 <div align="center">
   <p>
     <img src="doc/imgs/CamVid_0006R0_f01260.png" style="text-align:center" width="500">
     <br/>
-    原图像
+    original image
   </p>
 </div>
 
@@ -64,10 +66,10 @@ English | [简体中文](./README.md)
   <p>
     <img src="doc/imgs/CamVid_0006R0_f01260_P.png" style="text-align:center" width="500">
     <br/>
-    语义分割输出
+    Output of 
   </p>
 </div>
 
-[CamVid官网地址](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
+[CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
 
-[CamVid亚马逊云下载地址](https://s3.amazonaws.com/fast-ai-imagelocal/camvid.tgz)
+[Download CamVid](https://s3.amazonaws.com/fast-ai-imagelocal/camvid.tgz)
