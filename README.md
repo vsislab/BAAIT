@@ -7,9 +7,11 @@
 ## 第四章 卷积神经网络
 
 本章主要介绍经典卷积神经网络结构，训练及测试所用数据集为FashionMNIST，构建Dataloader时会自动下载至目录`chapter_4/data/FashionMNIST`
+<div style="text-align:center;">
 <p style="text-align:center;">
   <img src="doc/imgs/Fashion-MNIST-dataset.png" width="400">
 </p>
+</div>
 <center>FashionMNIST样本</center>
 
 [FashionMNIST官方仓库](https://github.com/zalandoresearch/fashion-mnist)
@@ -29,7 +31,7 @@
 
 ## 第六章 目标检测及其应用
 
-仍在整理中
+整理中
 
 ## 第七章 语义分割及其应用
 
