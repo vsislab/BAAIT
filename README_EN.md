@@ -38,7 +38,7 @@ This chapter introduces the classical sequence-to-sequence network, the dataset 
     <p>
       <img src="doc/imgs/aclImdb.png" style="text-align:center" width="500">
       <br/>
-      positiva and negativa review samples
+      positive and negative review samples
     </p>
 </div>
 
