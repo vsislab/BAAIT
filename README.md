@@ -11,6 +11,7 @@
 <div align="center">
   <p>
     <img src="doc/imgs/Fashion-MNIST-dataset.png" width="400">
+    <br/>
     FashionMNIST样本
   </p>
 </div>
@@ -26,6 +27,7 @@
 <div align="center">
     <p>
       <img src="doc/imgs/aclImdb.png" style="text-align:center" width="500">
+      <br/>
       正负评价样本
     </p>
 </div>
@@ -44,6 +46,7 @@
 <div align="center">
   <p>
     <img src="doc/imgs/CamVid_0006R0_f01260.png" style="text-align:center" width="500">
+    <br/>
     原图像
   </p>
 </div>
@@ -52,6 +55,7 @@
 <div align="center">
   <p>
     <img src="doc/imgs/CamVid_0006R0_f01260_P.png" style="text-align:center" width="500">
+    <br/>
     语义分割输出
   </p>
 </div>
