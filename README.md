@@ -8,9 +8,9 @@
 
 本章主要介绍经典卷积神经网络结构，训练及测试所用数据集为FashionMNIST，构建Dataloader时会自动下载至目录`chapter_4/data/FashionMNIST`
 <p style="text-align:center;">
-  <img src="doc/imgs/Fashion-MNIST-dataset.png" width="500">
-  <center>FashionMNIST样本</center>
+  <img src="doc/imgs/Fashion-MNIST-dataset.png" width="400">
 </p>
+<center>FashionMNIST样本</center>
 
 [FashionMNIST官方仓库](https://github.com/zalandoresearch/fashion-mnist)
 
@@ -21,9 +21,8 @@
 
 <p style="text-align:center;">
   <img src="doc/imgs/aclImdb.png" style="text-align:center" width="500">
-  <center>正负评价样本</center>
 </p>
-
+<center>正负评价样本</center>
 
 
 [aclImdb下载地址](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
@@ -38,13 +37,13 @@
 
 <p style="text-align:center;">
   <img src="doc/imgs/CamVid_0006R0_f01260.png" style="text-align:center" width="500">
-  <center>原图像</center>
 </p>
+<center>原图像</center>
 
 <p style="text-align:center;">
   <img src="doc/imgs/CamVid_0006R0_f01260_P.png" style="text-align:center" width="500">
-  <center>语义分割输出</center>
 </p>
+<center>语义分割输出</center>
 
 [CamVid官网地址](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
 
