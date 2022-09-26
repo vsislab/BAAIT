@@ -7,11 +7,13 @@
 ## 第四章 卷积神经网络
 
 本章主要介绍经典卷积神经网络结构，训练及测试所用数据集为FashionMNIST，构建Dataloader时会自动下载至目录`chapter_4/data/FashionMNIST`
-<div style="text-align:center;">
+
+<div style="align:center;">
 <p style="text-align:center;">
   <img src="doc/imgs/Fashion-MNIST-dataset.png" width="400">
 </p>
 </div>
+
 <center>FashionMNIST样本</center>
 
 [FashionMNIST官方仓库](https://github.com/zalandoresearch/fashion-mnist)
@@ -21,7 +23,7 @@
 
 本章主要介绍经典序列到序列网络，训练及测试所用数据集为aclImdb，需要读者下载至目录`chapter_5/data/aclImdb`
 
-<p style="text-align:center;">
+<p style="align:center;">
   <img src="doc/imgs/aclImdb.png" style="text-align:center" width="500">
 </p>
 <center>正负评价样本</center>
