@@ -9,7 +9,7 @@
 本章主要介绍经典卷积神经网络结构，训练及测试所用数据集为FashionMNIST，构建Dataloader时会自动下载至目录`chapter_4/data/FashionMNIST`
 <p style="text-align:center;">
   <img src="doc/imgs/Fashion-MNIST-dataset.png" width="500">
-  <center>正负评价样本</center>
+  <center>FashionMNIST样本</center>
 </p>
 
 [FashionMNIST官方仓库](https://github.com/zalandoresearch/fashion-mnist)
