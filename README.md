@@ -11,10 +11,10 @@
 <div align="center">
   <p>
     <img src="doc/imgs/Fashion-MNIST-dataset.png" width="400">
+    FashionMNIST样本
   </p>
 </div>
 
-<center>FashionMNIST样本</center>
 
 [FashionMNIST官方仓库](https://github.com/zalandoresearch/fashion-mnist)
 
@@ -26,10 +26,9 @@
 <div align="center">
     <p>
       <img src="doc/imgs/aclImdb.png" style="text-align:center" width="500">
+      正负评价样本
     </p>
 </div>
-
-<center>正负评价样本</center>
 
 
 [aclImdb下载地址](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
@@ -45,15 +44,16 @@
 <div align="center">
   <p>
     <img src="doc/imgs/CamVid_0006R0_f01260.png" style="text-align:center" width="500">
+    原图像
   </p>
 </div>
-<center>原图像</center>
+
 
 <div align="center">
   <p>
     <img src="doc/imgs/CamVid_0006R0_f01260_P.png" style="text-align:center" width="500">
+    语义分割输出
   </p>
-<align="center">
 </div>
 
 [CamVid官网地址](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
