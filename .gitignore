@@ -1,0 +1,15 @@
+.vscode/
+
+# data
+chapter_4/data/FashionMNIST
+chapter_7/CamVid/camvid/images/
+chapter_7/CamVid/camvid/labels/
+
+# pyc
+*.pyc
+
+# run results
+chapter_7/work_dirs/
+
+# ipynb checkpoints
+*-checkpoint.ipynb
