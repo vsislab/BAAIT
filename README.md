@@ -7,21 +7,24 @@
 ## 第四章 卷积神经网络
 
 本章主要介绍经典卷积神经网络结构，训练及测试所用数据集为FashionMNIST，构建Dataloader时会自动下载至目录`chapter_4/data/FashionMNIST`
-
-![FashionMNIST样本](doc/imgs/Fashion-MNIST-dataset.png)
-<center>FashionMNIST样本</center>
+<p style="text-align:center;">
+  <img src="doc/imgs/Fashion-MNIST-dataset.png" width=500>
+  <center>正负评价样本</center>
+</p>
 
 [FashionMNIST官方仓库](https://github.com/zalandoresearch/fashion-mnist)
-
 
 
 ## 第五章 序列到序列网络
 
 本章主要介绍经典序列到序列网络，训练及测试所用数据集为aclImdb，需要读者下载至目录`chapter_5/data/aclImdb`
 
-![正负评价样本](doc/imgs/aclImdb.png)
+<p style="text-align:center;">
+  <img src="doc/imgs/aclImdb.png" style="text-align:center" width=500>
+  <center>正负评价样本</center>
+</p>
 
-<center>正负评价样本</center>
+
 
 [aclImdb下载地址](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 
@@ -33,11 +36,15 @@
 
 本章实现城市街景分割实践案例，训练及测试所用数据集为CamVid，需要读者下载至目录`chapter_7/CamVid`
 
-![原图像](doc/imgs/CamVid_0006R0_f01260.png)
-<center>原图像</center>
+<p style="text-align:center;">
+  <img src="doc/imgs/CamVid_0006R0_f01260.png" style="text-align:center" width=500>
+  <center>原图像</center>
+</p>
 
-![语义分割输出](doc/imgs/CamVid_0006R0_f01260_P.png)
-<center>语义分割输出</center>
+<p style="text-align:center;">
+  <img src="doc/imgs/CamVid_0006R0_f01260_P.png" style="text-align:center" width=500>
+  <center>语义分割输出</center>
+</p>
 
 [CamVid官网地址](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
 
