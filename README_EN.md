@@ -1,7 +1,9 @@
 # Basics and Applications of Artificial Intelligence Technology
 
 <div align="center">
+
 English | [简体中文](./README.md)
+
 </div>
 
 ---
