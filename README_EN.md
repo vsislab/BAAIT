@@ -47,7 +47,17 @@ This chapter introduces the classical sequence-to-sequence network, the dataset 
 
 ## Chapter 6 Object Detection and its Applications
 
-coming soon...
+This chapter implements a practical case of human detection, the dataset used for training and testing is Penn-Fudan, there is download scripts in jupyter notebook
+
+<div align="center">
+    <p>
+      <img src="doc/imgs/Penn-Fudan.png" style="text-align:center" width="500">
+      <br/>
+      human detection
+    </p>
+</div>
+
+[Penn-Fudan](https://www.cis.upenn.edu/~jshi/ped_html/)
 
 ## Chapter 7 Semantic Segmentation and its Applications
 
