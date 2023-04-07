@@ -45,15 +45,17 @@
 
 ## 第六章 目标检测及其应用
 
-本章主要介绍目标分割实践案例，训练即测试所用数据集为Penn-Fudan
+本章主要介绍目标分割实践案例，训练即测试所用数据集为Penn-Fudan，在jupyter notebook中有下载脚本
 
 <div align="center">
     <p>
       <img src="doc/imgs/Penn-Fudan.png" style="text-align:center" width="500">
       <br/>
-      正负评价样本
+      行人检测
     </p>
 </div>
+
+[Penn-Fudan官网地址](https://www.cis.upenn.edu/~jshi/ped_html/)
 
 ## 第七章 语义分割及其应用
 
