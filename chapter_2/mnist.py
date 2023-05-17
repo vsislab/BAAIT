@@ -17,8 +17,8 @@ key_file = {
     'test_img':'t10k-images-idx3-ubyte.gz',
     'test_label':'t10k-labels-idx1-ubyte.gz'
 }
-
-dataset_dir = os.path.dirname(os.path.abspath(__file__))
+os.makedirs(os.path.join("MNIST","raw"))
+dataset_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "MNIST", "raw")
 save_file = dataset_dir + "/mnist.pkl"
 
 train_num = 60000
