@@ -1,7 +1,10 @@
 .vscode/
 
 # data
+chapter_2/MNIST/raw/
+chapter_3/model.pth
 chapter_4/data/FashionMNIST
+chapter_6/PennFudanPed/
 chapter_7/CamVid/camvid/images/
 chapter_7/CamVid/camvid/labels/
 
@@ -9,6 +12,7 @@ chapter_7/CamVid/camvid/labels/
 *.pyc
 
 # run results
+chapter_6/work_dirs/
 chapter_7/work_dirs/
 
 # ipynb checkpoints
