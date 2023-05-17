@@ -10,7 +10,15 @@ English | [简体中文](./README.md)
 
 This repository is a companion code to the book "Fundamentals and Applications of Artificial Intelligence Techniques" written by VSISLAB
 
-Chapters 1~3 do not involve practice, no supporting code
+Chapters 1 do not involve practice, no supporting code
+
+## Chapter 2 Neural Network Fundamentals
+
+This chapter mainly introduces the basic design of neural networks, using numpy to implement commonly used modules in neural networks from scratch, and finally building a network that can recognize handwritten digits
+
+## Chapter 3 Deep Learning Computational Framework
+
+This chapter mainly introduces the PyTorch deep learning computing framework and uses PyTorch to implement the network in Chapter 2 in a more concise way.
 
 ## Chapter 4 Convolutional Neural Networks
 
